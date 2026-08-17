@@ -13,6 +13,25 @@
             #endregion
 
 
+            #region Q2
+
+
+            // A) An Abstract Class can contain both abstract methods and concrete methods. It can also contain fields, constructors, and different access modifiers
+            //  An Interface mainly defines a contract that a class must follow.It is used to specify behaviors that implementing classes should provide.
+
+
+            // B) We choose an Interface when we want different or unrelated classes to share the same behavior or contract. It is also useful when a class needs to implement multiple behaviors. 
+
+
+            //c) No, a class generally cannot inherit from multiple classes, including abstract classes, because languages such as Java and C# support single class inheritance.
+
+
+            #endregion
+
+
+
+
+
 
 
         }
